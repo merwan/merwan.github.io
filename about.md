@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I have about 10 years of professional software development experience. I develop on Linux with technologies such as Ruby on Rails, Python/Django, JavaScript, etc. In the past, I spent many years developing web and Windows applications for the Microsoft .NET platform.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+My goal is to design, build and ship high quality products using best practices in software development. In order to achieve this goal, I use agile practices (short iterations, user stories, TDD) and appropriate technologies.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Currently, I am working for [Teezily](https://teezily.com). 
