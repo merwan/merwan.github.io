@@ -3,7 +3,7 @@ title: Merouane Atig
 author: Merouane Atig
 description: Personal blog and resume
 avatar: profile.jpg
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: ""
 url: "https://patem.net" # the base hostname & protocol for your site
 email: merwan@patem.net
 github:  merwan
