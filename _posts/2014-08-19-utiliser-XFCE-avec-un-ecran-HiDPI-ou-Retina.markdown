@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "utiliser XFCE avec un écran HiDPI ou \"Retina\""
-date: 2014-08-19 09:35:55 +0200
-comments: true
-categories: Linux
+title: Utiliser XFCE avec un écran HiDPI ou \"Retina\"
+tags:
+- Linux
 ---
 
 Ma nouvelle station de travail est un DELL Precision M4800, modèle équipé d'un écran très haute résolution QHD+ 3200x1800 pixels ([aussi appelé HiDPI ou Retina chez Apple](http://en.wikipedia.org/wiki/Retina_Display)).

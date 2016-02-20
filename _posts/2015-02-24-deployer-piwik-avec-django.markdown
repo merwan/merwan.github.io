@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Déployer Piwik avec Django"
-date: 2015-02-24 22:25:39 +0100
-comments: true
-categories: Django deploiement
+title: Déployer Piwik avec Django
+tags:
+- Django
 ---
 
 Aujourd'hui, j'ai voulu intégrer [Piwik Web Analytics](http://piwik.org/) dans une application Django sans ajouter de nouvelle dépendance. La solution que j'ai mise en place s'appuie sur le fichier de settings et la création d'un [context processor](https://docs.djangoproject.com/en/dev/ref/templates/api/#writing-your-own-context-processors).

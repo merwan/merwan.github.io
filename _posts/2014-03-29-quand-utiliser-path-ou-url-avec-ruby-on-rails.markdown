@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Quand utiliser les helpers _path et _url avec Ruby on Rails"
-date: 2014-03-29 14:23:50 +0100
-comments: true
-published: true
-categories: rails
+title: Quand utiliser les helpers _path et _url avec Ruby on Rails
+tags:
+- rails
 ---
 Il y a deux façons d'exprimer les liens et URLs avec Ruby on Rails : `_path` -- qui exprime un chemin relatif -- et `_url` qui correspond au même chemin préfixé du nom d'hôte, du port et du path prefix.
 

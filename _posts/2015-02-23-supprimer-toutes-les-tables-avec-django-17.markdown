@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Supprimer toutes les tables avec Django 1.7+"
-date: 2015-02-23 17:07:34 +0100
-comments: true
-categories: Django
+title: Supprimer toutes les tables avec Django 1.7+
+tags:
+- Django
 ---
 
 Lorsque l'on veut repartir d'une base vide avec un projet Django 1.7+ qui utilise les migrations, on peut utiliser la commande:
