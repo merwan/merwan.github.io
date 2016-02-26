@@ -164,6 +164,35 @@ body {
   font-size: 18px;
 }
 
+.contact h1 {
+  color: #27A822;
+  margin-bottom: 20px;
+}
+
+.contact {
+  text-align: left;
+}
+
+.contact a {
+  color: #333;
+  text-decoration: none;
+}
+
+.contact a:hover, .contact a:focus {
+  color: #27A822;
+}
+
+section > h2 {
+  font-size: 140%;
+  line-height: 120%;
+  text-transform: uppercase;
+  color: #27A822;
+}
+
+.cv {
+  text-align: left;
+}
+
 /* Footer
 -------------------------------------------------- */
 
