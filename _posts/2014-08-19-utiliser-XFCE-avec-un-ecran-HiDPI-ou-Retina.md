@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Utiliser XFCE avec un écran HiDPI ou \"Retina\"
+title: Utiliser XFCE avec un écran HiDPI ou Retina
 tags:
 - Linux
 ---
