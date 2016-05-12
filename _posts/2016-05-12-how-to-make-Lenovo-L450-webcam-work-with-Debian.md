@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to mage Lenovo L450 webcam work with Debian
+title: How to make Lenovo L450 webcam work with Debian
 tags:
 - Debian
 ---
