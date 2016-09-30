@@ -32,6 +32,7 @@ wget -O webcam.patch https://launchpadlibrarian.net/229627414/0001-uvcvideo-Acer
 
 ```
 apt-get source linux-image-$(uname -r)
+# Or apt-get source linux-image-$(uname -r)-unsigned for v4.7+
 cd linux-* # Should be linux-image source folder
 cp ~/debian/src/webcam.patch ./
 ```
