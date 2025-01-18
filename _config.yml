@@ -7,7 +7,7 @@ baseurl: ""
 url: "https://patem.net" # the base hostname & protocol for your site
 email: merwan@patem.net
 github:  merwan
-twitter: merwanat
+mastodon: https://piaille.fr/@merwanat
 linkedin: merouaneatig
 stackoverflow: users/172991/merwan
 
