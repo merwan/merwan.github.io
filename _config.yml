@@ -6,10 +6,10 @@ avatar: profile.jpg
 baseurl: ""
 url: "https://patem.net" # the base hostname & protocol for your site
 email: merwan@patem.net
-github:  merwan
+github:  https://github.com/merwan
 mastodon: https://piaille.fr/@merwanat
-linkedin: merouaneatig
-stackoverflow: users/172991/merwan
+linkedin: https://linkedin.com/in/merouaneatig
+stackoverflow: https://stackoverflow.com/users/172991/merwan
 
 # Build settings
 markdown: kramdown
